@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\ShapeTask\bin\Debug\netcoreapp3.1\ShapeTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\ShapeTask\bin\Debug\netcoreapp3.1\ShapeTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\ShapeTask\bin\Debug\netcoreapp3.1\ShapeTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\ShapeTask\bin\Debug\netcoreapp3.1\ShapeTask.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\ShapeTask\bin\Debug\netcoreapp3.1\ShapeTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\ShapeTask\bin\Debug\netcoreapp3.1\ShapeTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\ShapeTask\obj\Debug\netcoreapp3.1\ShapeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\ShapeTask\obj\Debug\netcoreapp3.1\ShapeTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\ShapeTask\obj\Debug\netcoreapp3.1\ShapeTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\ShapeTask\obj\Debug\netcoreapp3.1\ShapeTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\ShapeTask\obj\Debug\netcoreapp3.1\ShapeTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\ShapeTask\obj\Debug\netcoreapp3.1\ShapeTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\ShapeTask\obj\Debug\netcoreapp3.1\ShapeTask.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\StudentGroupTask\bin\Debug\netcoreapp3.1\StudentGroupTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\StudentGroupTask\bin\Debug\netcoreapp3.1\StudentGroupTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\StudentGroupTask\bin\Debug\netcoreapp3.1\StudentGroupTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\StudentGroupTask\bin\Debug\netcoreapp3.1\StudentGroupTask.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\StudentGroupTask\bin\Debug\netcoreapp3.1\StudentGroupTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\StudentGroupTask\bin\Debug\netcoreapp3.1\StudentGroupTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\StudentGroupTask\obj\Debug\netcoreapp3.1\StudentGroupTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\StudentGroupTask\obj\Debug\netcoreapp3.1\StudentGroupTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\StudentGroupTask\obj\Debug\netcoreapp3.1\StudentGroupTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\StudentGroupTask\obj\Debug\netcoreapp3.1\StudentGroupTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\StudentGroupTask\obj\Debug\netcoreapp3.1\StudentGroupTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\StudentGroupTask\obj\Debug\netcoreapp3.1\StudentGroupTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\StudentGroupTask\obj\Debug\netcoreapp3.1\StudentGroupTask.genruntimeconfig.cache

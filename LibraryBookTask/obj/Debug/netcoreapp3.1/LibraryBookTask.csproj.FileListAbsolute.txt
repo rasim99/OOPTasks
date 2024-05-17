@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\LibraryBookTask\bin\Debug\netcoreapp3.1\LibraryBookTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\LibraryBookTask\bin\Debug\netcoreapp3.1\LibraryBookTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\LibraryBookTask\bin\Debug\netcoreapp3.1\LibraryBookTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\LibraryBookTask\bin\Debug\netcoreapp3.1\LibraryBookTask.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\LibraryBookTask\bin\Debug\netcoreapp3.1\LibraryBookTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\LibraryBookTask\bin\Debug\netcoreapp3.1\LibraryBookTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\LibraryBookTask\obj\Debug\netcoreapp3.1\LibraryBookTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\LibraryBookTask\obj\Debug\netcoreapp3.1\LibraryBookTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\LibraryBookTask\obj\Debug\netcoreapp3.1\LibraryBookTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\LibraryBookTask\obj\Debug\netcoreapp3.1\LibraryBookTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\LibraryBookTask\obj\Debug\netcoreapp3.1\LibraryBookTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\LibraryBookTask\obj\Debug\netcoreapp3.1\LibraryBookTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\LibraryBookTask\obj\Debug\netcoreapp3.1\LibraryBookTask.genruntimeconfig.cache

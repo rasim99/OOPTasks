@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\Product_OrderTask\obj\Debug\netcoreapp3.1\Product_OrderTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\Product_OrderTask\obj\Debug\netcoreapp3.1\Product_OrderTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\Product_OrderTask\obj\Debug\netcoreapp3.1\Product_OrderTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\Product_OrderTask\obj\Debug\netcoreapp3.1\Product_OrderTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\Product_OrderTask\bin\Debug\netcoreapp3.1\Product_OrderTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\Product_OrderTask\bin\Debug\netcoreapp3.1\Product_OrderTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\Product_OrderTask\bin\Debug\netcoreapp3.1\Product_OrderTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\Product_OrderTask\bin\Debug\netcoreapp3.1\Product_OrderTask.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\Product_OrderTask\bin\Debug\netcoreapp3.1\Product_OrderTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\Product_OrderTask\bin\Debug\netcoreapp3.1\Product_OrderTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\Product_OrderTask\obj\Debug\netcoreapp3.1\Product_OrderTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\Product_OrderTask\obj\Debug\netcoreapp3.1\Product_OrderTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\Product_OrderTask\obj\Debug\netcoreapp3.1\Product_OrderTask.genruntimeconfig.cache

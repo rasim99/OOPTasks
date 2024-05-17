@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\Pb401Labr\\OopClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B727E4B-B67A-4C1C-B88C-A3DE3A48CA49}|StudentGroupTask\\StudentGroupTask.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\pb401labr\\oopclass\\studentgrouptask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B727E4B-B67A-4C1C-B88C-A3DE3A48CA49}|StudentGroupTask\\StudentGroupTask.csproj|solutionrelative:studentgrouptask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B727E4B-B67A-4C1C-B88C-A3DE3A48CA49}|StudentGroupTask\\StudentGroupTask.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\pb401labr\\oopclass\\studentgrouptask\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B727E4B-B67A-4C1C-B88C-A3DE3A48CA49}|StudentGroupTask\\StudentGroupTask.csproj|solutionrelative:studentgrouptask\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B727E4B-B67A-4C1C-B88C-A3DE3A48CA49}|StudentGroupTask\\StudentGroupTask.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\pb401labr\\oopclass\\studentgrouptask\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B727E4B-B67A-4C1C-B88C-A3DE3A48CA49}|StudentGroupTask\\StudentGroupTask.csproj|solutionrelative:studentgrouptask\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B727E4B-B67A-4C1C-B88C-A3DE3A48CA49}|StudentGroupTask\\StudentGroupTask.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\pb401labr\\oopclass\\studentgrouptask\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B727E4B-B67A-4C1C-B88C-A3DE3A48CA49}|StudentGroupTask\\StudentGroupTask.csproj|solutionrelative:studentgrouptask\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B727E4B-B67A-4C1C-B88C-A3DE3A48CA49}|StudentGroupTask\\StudentGroupTask.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\pb401labr\\oopclass\\studentgrouptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B727E4B-B67A-4C1C-B88C-A3DE3A48CA49}|StudentGroupTask\\StudentGroupTask.csproj|solutionrelative:studentgrouptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B727E4B-B67A-4C1C-B88C-A3DE3A48CA49}|StudentGroupTask\\StudentGroupTask.csproj|c:\\users\\asus\\desktop\\codeacademy2024\\pb401labr\\oopclass\\studentgrouptask\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B727E4B-B67A-4C1C-B88C-A3DE3A48CA49}|StudentGroupTask\\StudentGroupTask.csproj|solutionrelative:studentgrouptask\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\Pb401Labr\\OopClass\\StudentGroupTask\\Teacher.cs",
+              "RelativeDocumentMoniker": "StudentGroupTask\\Teacher.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\Pb401Labr\\OopClass\\StudentGroupTask\\Teacher.cs",
+              "RelativeToolTip": "StudentGroupTask\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:06:47.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\Pb401Labr\\OopClass\\StudentGroupTask\\Topic.cs",
+              "RelativeDocumentMoniker": "StudentGroupTask\\Topic.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\Pb401Labr\\OopClass\\StudentGroupTask\\Topic.cs",
+              "RelativeToolTip": "StudentGroupTask\\Topic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:06:43.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\Pb401Labr\\OopClass\\StudentGroupTask\\Program.cs",
+              "RelativeDocumentMoniker": "StudentGroupTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\Pb401Labr\\OopClass\\StudentGroupTask\\Program.cs",
+              "RelativeToolTip": "StudentGroupTask\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:06:36.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\Pb401Labr\\OopClass\\StudentGroupTask\\Student.cs",
+              "RelativeDocumentMoniker": "StudentGroupTask\\Student.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\Pb401Labr\\OopClass\\StudentGroupTask\\Student.cs",
+              "RelativeToolTip": "StudentGroupTask\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:06:33.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\Pb401Labr\\OopClass\\StudentGroupTask\\Person.cs",
+              "RelativeDocumentMoniker": "StudentGroupTask\\Person.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\Pb401Labr\\OopClass\\StudentGroupTask\\Person.cs",
+              "RelativeToolTip": "StudentGroupTask\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:06:30.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\Pb401Labr\\OopClass\\StudentGroupTask\\Group.cs",
+              "RelativeDocumentMoniker": "StudentGroupTask\\Group.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\CODEACADEMY2024\\Pb401Labr\\OopClass\\StudentGroupTask\\Group.cs",
+              "RelativeToolTip": "StudentGroupTask\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:06:26.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

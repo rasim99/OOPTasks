@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\InvoiceTask\bin\Debug\netcoreapp3.1\InvoiceTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\InvoiceTask\bin\Debug\netcoreapp3.1\InvoiceTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\InvoiceTask\bin\Debug\netcoreapp3.1\InvoiceTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\InvoiceTask\bin\Debug\netcoreapp3.1\InvoiceTask.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\InvoiceTask\bin\Debug\netcoreapp3.1\InvoiceTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\InvoiceTask\bin\Debug\netcoreapp3.1\InvoiceTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\InvoiceTask\obj\Debug\netcoreapp3.1\InvoiceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\InvoiceTask\obj\Debug\netcoreapp3.1\InvoiceTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\InvoiceTask\obj\Debug\netcoreapp3.1\InvoiceTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\InvoiceTask\obj\Debug\netcoreapp3.1\InvoiceTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\InvoiceTask\obj\Debug\netcoreapp3.1\InvoiceTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\InvoiceTask\obj\Debug\netcoreapp3.1\InvoiceTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\InvoiceTask\obj\Debug\netcoreapp3.1\InvoiceTask.genruntimeconfig.cache

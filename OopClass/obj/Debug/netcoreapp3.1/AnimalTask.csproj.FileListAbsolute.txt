@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\OopClass\bin\Debug\netcoreapp3.1\AnimalTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\OopClass\bin\Debug\netcoreapp3.1\AnimalTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\OopClass\bin\Debug\netcoreapp3.1\AnimalTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\OopClass\bin\Debug\netcoreapp3.1\AnimalTask.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\OopClass\bin\Debug\netcoreapp3.1\AnimalTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\OopClass\bin\Debug\netcoreapp3.1\AnimalTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\OopClass\obj\Debug\netcoreapp3.1\AnimalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\OopClass\obj\Debug\netcoreapp3.1\AnimalTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\OopClass\obj\Debug\netcoreapp3.1\AnimalTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\OopClass\obj\Debug\netcoreapp3.1\AnimalTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\OopClass\obj\Debug\netcoreapp3.1\AnimalTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\OopClass\obj\Debug\netcoreapp3.1\AnimalTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Pb401Labr\OopClass\OopClass\obj\Debug\netcoreapp3.1\AnimalTask.genruntimeconfig.cache
